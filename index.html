@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="shortcut icon" href="assets/open-padlock.png">
+    <title>Decodificador de Texto</title>
+</head>
+
+<body>
+    <div class="logo">
+        <img src="assets/open-padlock.png" alt="ícone de um cadeado" class="logoImg">
+    </div>
+    <section class="elements">
+        <section class="elementInputAndButtons">
+            <div class="elementInput">
+                <textarea id="inputText" name='opcao' class="inputText" placeholder="Digite seu texto"></textarea>
+            </div>
+            <section class="elementButtons">
+                <div class="textInformation">
+                    <img src="assets/warning.png" class="iconInformation" alt="Ícone de alerta">
+                    <span class="information">Apenas letras minúsculas e sem acento.</span>
+                </div>
+                <div class="buttons">
+                    <button id="encrypt" class="button">Criptografar</button>
+                    <button id="decrypt" class="button">Descriptografar</button>
+                </div>
+            </section>
+        </section>
+        <section class="elementForm">
+            <textarea class="inputForm" id="inputForm" style="display: none;"></textarea>
+            <img src="assets/10625532.jpg" alt="Ilustração de Pesquisa" id="imgIcon" class="imgIluster">
+            <div class="informationForm">
+                <span id="textOne" class="textOne">Nenhuma mensagem encontrada</span>
+                <span id="textTwo" class="textTwo">Digite um texto que você deseja criptografar ou
+                    descriptografar</span>
+                
+            </div>
+            <button class="button" id="buttonForm" style="display: none;">Copiar</button>
+        </section>
+    </section>
+    <footer class="footer">
+        <p>&copy; Desenvolvido por Jess | 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
