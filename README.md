@@ -1,5 +1,7 @@
 # Desafio Decodificador de Textos - Challenge Alura
 
+
+
 Esta é uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 As "chaves" de criptografia que foram utilizadas:<br>
@@ -34,3 +36,10 @@ gaitober" => "gato"
 ## Insígnia do desafio
 
 <img src="assets/Decodificador de texto.png" alt="imagem da insígnia recebida pela conclusão do desafio" width="200" height="auto">
+
+## Interaja com a aplicação
+
+🔗 [Codificador de Textos](https://codificador-rust.vercel.app/)
+
+<img src="assets/image.png" alt="imagem da aplicação" width="500" height="auto"><br>
+<img src="assets/image2.png" alt="imagem da aplicação" width="500" height="auto">
