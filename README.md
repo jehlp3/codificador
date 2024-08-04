@@ -30,3 +30,7 @@ gaitober" => "gato"
 - Responsividade
 - Interação HTML com JS
 - Funções com JS
+
+## Insígnia do desafio
+
+<img src="assets/Decodificador de texto.png" alt="imagem da insígnia recebida pela conclusão do desafio" width="200" height="auto">
