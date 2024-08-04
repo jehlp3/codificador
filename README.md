@@ -1,4 +1,4 @@
-# Desafio Decodificador de texto - Challenge Alura
+# Desafio Decodificador de Textos - Challenge Alura
 
 Esta é uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
